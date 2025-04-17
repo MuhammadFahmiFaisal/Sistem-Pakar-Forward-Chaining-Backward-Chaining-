@@ -21,3 +21,20 @@ Backward Chaining adalah metode inferensi yang dimulai dengan tujuan atau hipote
 2. Cek apakah tujuan dapat dibuktikan dengan aturan yang ada.
 3. Jika tujuan tidak langsung terbukti, cek apakah sub-tujuan dapat membuktikan tujuan utama.
 4. Ulangi langkah 3 sampai fakta yang relevan ditemukan atau tidak ada lebih banyak aturan yang dapat diterapkan.
+
+## 📂 File dalam Repository
+- `forward_chaining.ipynb` → Implementasi Forward Chaining
+- `backward_chaining.ipynb` → Implementasi Backward Chaining
+- `Sistem_Pakar_Kesehatan.ipynb` → Implementasi sistem pakar dalam bidang kesehatan untuk mendiagnosis suatu penyakit melalui aturan tertentu sesuai dengan kondisi/gejala yang dirasakan
+
+## 🚀 Cara Menjalankan Kode di Google Colab
+1. **Clone repository ini ke Google Colab atau komputer lokal**
+2. **Jalankan kode dalam Google Colab, dengan langkah berikut**:
+   - Upload file Python ke Google Colab.
+   - Tambahkan sel kode berikut untuk menjalankan sistem pakar:
+ 
+     !python forward_chaining.py  # Untuk menjalankan Forward Chaining
+     !python backward_chaining.py  # Untuk menjalankan Backward Chaining
+     
+3. **Pastikan semua dependensi telah terinstal**:
+4. **Jalankan dan analisis hasilnya!**
