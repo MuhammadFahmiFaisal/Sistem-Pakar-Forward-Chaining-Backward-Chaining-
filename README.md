@@ -25,7 +25,7 @@ Backward Chaining adalah metode inferensi yang dimulai dengan tujuan atau hipote
 ## 📂 File dalam Repository
 - `forward_chaining.ipynb` → Implementasi Forward Chaining
 - `backward_chaining.ipynb` → Implementasi Backward Chaining
-- `Sistem_Pakar_Kesehatan.ipynb` → Implementasi sistem pakar dalam bidang kesehatan untuk mendiagnosis suatu penyakit melalui aturan tertentu sesuai dengan kondisi/gejala yang dirasakan
+- `TugasSistemPakar.ipynb` → Implementasi sistem pakar dalam bidang kesehatan untuk mendiagnosis suatu penyakit melalui aturan tertentu sesuai dengan kondisi/gejala yang dirasakan
 
 ## 🚀 Cara Menjalankan Kode di Google Colab
 1. **Clone repository ini ke Google Colab atau komputer lokal**
